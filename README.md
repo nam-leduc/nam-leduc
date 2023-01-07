@@ -13,19 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://img.shields.io/badge/-Python-000?style=flat&logo=python)](https://github.com/nam-leduc)
-[![](https://img.shields.io/badge/-Go-000?style=flat&logo=go)](https://github.com/nam-leduc)
-[![](https://img.shields.io/badge/-Rails-000?style=flat&logo=ruby-on-rails)](https://github.com/nam-leduc)
-[![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](https://github.com/nam-leduc)
-[![](https://img.shields.io/badge/-PyTorch-000?style=flat&logo=pytorch)](https://github.com/nam-leduc)
-[![](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)](https://github.com/nam-leduc)
-[![](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis)](https://github.com/nam-leduc)
-
-[![](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)](https://github.com/nam-leduc)
-[![](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)](https://github.com/nam-leduc)
-[![](https://img.shields.io/badge/-Terraform-000?style=flat&logo=terraform)](https://github.com/nam-leduc)
-[![](https://img.shields.io/badge/-CircleCI-000?style=flat&logo=circleci)](https://github.com/nam-leduc)
+[![](https://img.shields.io/badge/-Python-fff?style=flat&logo=python&logoColor=000)](https://github.com/nam-leduc)
+[![](https://img.shields.io/badge/-Docker-fff?style=flat&logo=docker&logoColor=000)](https://github.com/nam-leduc)
+[![](https://img.shields.io/badge/-AWS-fff?style=flat&logo=amazon-aws&logoColor=000)](https://github.com/nam-leduc)
+[![](https://img.shields.io/badge/-Jenkins-fff?&logo=jenkins&logoColor=000)](https://github.com/nam-leduc)
+[![](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)](https://github.com/nam-leduc)
+[![](https://img.shields.io/badge/-Gerrit-fff?style=flat&logo=gerrit&logoColor=000)](https://github.com/nam-leduc)
+[![](https://img.shields.io/badge/-React-fff?style=flat&logo=react&logoColor=61DAFB)](https://github.com/nam-leduc)
+[![](https://img.shields.io/badge/-React-fff?style=flat&logo=JavaScript&logoColor=F7DF1E)](https://github.com/nam-leduc)
 
 [![](https://github-readme-stats.vercel.app/api?username=nam-leduc&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/nam-leduc)
 [![](https://github-profile-trophy.vercel.app/?username=nam-leduc&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/nam-leduc)
-
