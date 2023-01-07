@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Jenkins-fff?&logo=jenkins&logoColor=000)](https://github.com/nam-leduc)
 [![](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)](https://github.com/nam-leduc)
 [![](https://img.shields.io/badge/-Gerrit-fff?style=flat&logo=gerrit&logoColor=000)](https://github.com/nam-leduc)
-[![](https://img.shields.io/badge/-React-fff?style=flat&logo=react&logoColor=61DAFB)](https://github.com/nam-leduc)
-[![](https://img.shields.io/badge/-React-fff?style=flat&logo=JavaScript&logoColor=F7DF1E)](https://github.com/nam-leduc)
+[![](https://img.shields.io/badge/-React-fff?style=flat&logo=react&logoColor=000)](https://github.com/nam-leduc)
+[![](https://img.shields.io/badge/-Javascript-fff?style=flat&logo=JavaScript&logoColor=000)](https://github.com/nam-leduc)
 
 [![](https://github-readme-stats.vercel.app/api?username=nam-leduc&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/nam-leduc)
 [![](https://github-profile-trophy.vercel.app/?username=nam-leduc&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/nam-leduc)
